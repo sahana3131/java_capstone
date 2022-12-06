@@ -1,20 +1,3 @@
-/*
-
-This JAVA prgm is a simple PMS(Pharmacy Management System).
-It uses a Microsoft DataBase as its BackEnd.
-The  DataBase connectivity is acheived by means of Microsoft ODBC.
-Configuring the DataBase is very simple.
-Further Appending, Editing, Deleting of Records is made feasible.
-To put in a nut shell Implementation is very Easy.
-
-CODER	:	ABr.
-DATE	:	20/07/2005.
-TIME	:	12.22 AM.
-
-*/
-
-//Swing Packages
-
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
